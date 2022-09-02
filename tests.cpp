@@ -1,4 +1,3 @@
-//my comment 
 #include <string.h>
 #include <iostream> 
 #include <stdlib.h>
